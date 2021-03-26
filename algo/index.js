@@ -1,0 +1,15 @@
+// isUnique = require('./caching')
+// maxmin = require('./maxmin')
+// memoization = require('./memoization')
+// factWrapper = require('./factorial')
+// linearSearch = require('./linearSearch')
+// binarySearch = require('./binarySearch')
+//merge = require('./mergeSort')
+// accumulator = require('./accumulator')
+//solution = require('./leastPositiveInteger')
+react = require("./findmedian")
+    // module.exports = maxmin
+    // module.exports = memoization
+    // module.exports = isUnique
+    // module.exports = factWrapper
+module.exports = react
